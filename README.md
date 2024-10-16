@@ -1,1 +1,1 @@
-# concurrentes-2C24
+# Tecnicas de Programación Concurrente - 2C2024
